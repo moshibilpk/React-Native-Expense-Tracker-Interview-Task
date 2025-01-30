@@ -48,13 +48,13 @@ Create a simple expense tracking application with user authentication and CRUD f
 
 #### Add Transaction
 
-- Screen with fields: Title, Amount (number), Type (income/expense), Date, Category (optional).
+- Screen with fields: Title, Amount (number), Type (income/expense), Date.
 - Save to local storage.
 
 #### List Transactions
 
 - Screen to display all transactions in a list.
-- Show title, amount, date, and category.
+- Show title, amount, date and type.
 - Add a way to navigate here from the Home screen (e.g., tab, button).
 
 #### Edit/Delete Transactions
