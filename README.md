@@ -11,7 +11,7 @@ Create a simple expense tracking application with user authentication and CRUD f
 ### **Technical Setup**
 
 1. Use **React Native** (Expo or CLI)
-2. Choose **local storage** solution (e.g. SQLite, MMKV).
+2. Choose any **local storage** solution (e.g. SQLite, MMKV, etc..).
 3. Use **React Navigation** for screens.
 
 ---
