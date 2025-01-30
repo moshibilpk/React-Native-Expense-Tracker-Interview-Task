@@ -57,9 +57,9 @@ Create a simple expense tracking application with user authentication and CRUD f
 - Show title, amount, date and type.
 - Add a way to navigate here from the Home screen (e.g., tab, button).
 
-#### Edit/Delete Transactions
+#### Delete Transactions
 
-- Allow users to edit or delete existing transactions.
+- Allow users to delete existing transactions.
 - Update local storage after any changes.
 
 ---
@@ -94,10 +94,9 @@ Create a simple expense tracking application with user authentication and CRUD f
 
 1. **GitHub Repository** with:
    - Complete source code.
-   - `README.md` explaining setup, libraries used, and key decisions.
 
 ---
 
-**Timeframe**: Submit within 2-4 days.
+**Timeframe**: 8 hours.
 
 Good luck! 🚀
